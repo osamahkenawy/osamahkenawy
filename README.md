@@ -1,55 +1,51 @@
 # 👋 Hi, I'm Osamah Kenawy
 
-I’m a **Full Stack Developer** with over 5 years of experience in building impactful, scalable applications across IoT, healthcare, fleet management, and e-commerce. My work combines expertise in both **frontend** and **backend** development to deliver high-quality, user-centered solutions. 
+I’m a **Full Stack Developer** with 5+ years of experience in crafting impactful, scalable applications across IoT, healthcare, fleet management, and e-commerce. My passion lies in building user-centered solutions that merge innovative design with powerful functionality.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend**: 
-  - **Frameworks**: React, Vue 3
-  - **Libraries/Tools**: Tailwind CSS, Vuetify, styled-components, Leaflet
-  - **Languages**: JavaScript, TypeScript
 
-- **Backend**: 
-  - **Frameworks**: Node.js, Django, PHP (CodeIgniter), Express.js
-  - **Databases**: Oracle SQL, MySQL
-  - **Data Streaming**: Apache Kafka
+### **Frontend**
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+- ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
-- **Tools & Testing**: Jest, Jasmine, Docker, Swagger, Gulp, Grunt, Vite, Pinia, Redux
+### **Backend**
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+- ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+- ![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
----
-
-## 💼 Professional Experience
-
-### WIOT 360 IoT Solutions | Abu Dhabi, UAE  
-**Senior Full Stack Developer**  
-*May 2022 - Present*
-- **Fleet Tracking & UI Modernization**: Optimized fleet tracking by transitioning from Google Maps to Leaflet and upgrading the UI stack with Vue 3, Vite, and Vuetify.
-- **Microfrontend Architecture**: Built modular microfrontends using Vue.js, enhancing scalability and user-centered design.
-- **IoT APIs & Real-Time Data Integration**: Developed IoT APIs using Apache Kafka for real-time data processing and seamless integration.
-
-### YAS Clinic Group | Abu Dhabi, UAE  
-**Senior Full Stack Developer**  
-*Oct 2021 - Apr 2022*
-- **Virtual Care Solution**: Built a virtual care system in React, TypeScript, and Node.js, converting XD designs to responsive React components.
-- **HR System Enhancements**: Improved the PHP-based HR system with vacation management, significantly boosting operational efficiency.
-
-### CEPRES GMBH | Remote  
-**Frontend Developer**  
-*Apr 2021 - Sep 2021*
-- **DealEdge Platform**: Customized the DealEdge platform for private equity, implementing scalable UI components in React and TypeScript.
-
-### MEITS Technology | Cairo, Egypt  
-**Full Stack Developer**  
-*Sep 2018 - Jan 2020*
-- **Real-Time Search**: Created a real-time property search feature with Socket.io, enhancing user engagement.
-- **HR & Inventory Modules**: Developed Enjaz HR and Inventory modules with Express.js and Oracle SQL.
+### **Tools & Testing**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+- ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+- ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+- ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+- ![Grunt](https://img.shields.io/badge/Grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=black)
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
-## 📚 Continuous Learning & Projects
+## 💡 Projects & Contributions
+I’m passionate about continuous learning and problem-solving. Here, you’ll find a mix of professional and personal projects that showcase my work in frontend and backend development, real-time data integration, and UI/UX optimization. Highlights include:
 
-I'm passionate about continuous learning, tackling real-world problems, and developing my skills through hands-on projects. Feel free to explore my repositories for a glimpse into my work with React, Vue, Node.js, Django, and more. 
+- **Fleet Management Systems** for optimized tracking and user-centered UI
+- **IoT APIs** for seamless real-time data processing with Apache Kafka
+- **Virtual Care Solutions** designed for healthcare providers using React and Node.js
+
+Feel free to explore my repositories to see my code in action!
 
 ---
 
@@ -62,5 +58,4 @@ I'm passionate about continuous learning, tackling real-world problems, and deve
 
 ## 📫 Let’s Connect!
 
-I’m open to collaboration and always eager to discuss new ideas and projects. Feel free to reach out or connect!
-
+I’m always open to discussing new ideas and collaborations. Feel free to reach out or connect with me here!
