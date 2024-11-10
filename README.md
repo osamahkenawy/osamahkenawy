@@ -1,13 +1,11 @@
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=osamahkenawy&color=blueviolet&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/osamahkenawy?style=social)
-
 ### Hi there 👋 I'm Kenawy
 
-A **Full Stack Developer** with over 5 years of experience building impactful solutions in **IoT, healthcare, fleet management, and e-commerce**. I’m passionate about creating intuitive, user-centered applications that scale seamlessly, blending frontend and backend expertise to deliver optimized, high-performance systems. I’m all about 🚀 innovation, 🤝 collaboration, and smart automation 🤖.
+🛠️ **Code Wrangler & Bug Whisperer** 🛠️  
+I have 5+ years of experience crafting everything from IoT and healthcare solutions to fleet management and e-commerce systems. I enjoy making tech that’s both powerful and user-friendly. My specialty? Keeping things simple and reliable while sneaking in a bit of fun along the way!
 
-- ⚡ **Fun fact**: I’m all about turning complexity into simplicity—finding clean, efficient solutions to tough problems.
-- 💡 **Interests**: IoT, Web Development, Data Integration, and Frontend Optimization.
-- 💬 **Let’s chat** about tech trends, coding challenges, or real-world full-stack solutions.
+- ⚡ **Fun fact**: I’m on a lifelong quest to turn complicated problems into solutions that even my grandma could understand.
+- 💡 **Interests**: IoT, Web Development, Data Integration, and Optimizing Frontend Experiences.
+- 💬 **Let’s chat** about tech trends, coding challenges, or the finer points of JavaScript jokes.
 
 ---
 
@@ -20,12 +18,12 @@ A **Full Stack Developer** with over 5 years of experience building impactful so
 	<img title="TypeScript" alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" style="margin: 10px"/>
 	<img title="Node.js" alt="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin: 10px"/>
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" style="margin: 10px"/>
-	<img title="Django" alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="50" height="50" style="margin: 10px"/>
 	<img title="Apache Kafka" alt="Apache Kafka" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="50" height="50" style="margin: 10px"/>
 	<img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" style="margin: 10px"/>
 	<img title="Redis" alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50" height="50" style="margin: 10px"/>
 	<img title="OpenCV" alt="OpenCV" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50" height="50" style="margin: 10px"/>
 	<img title="PHP" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" style="margin: 10px"/>
+	<img title="Ubuntu" alt="Ubuntu" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="50" height="50" style="margin: 10px"/>
 </p>
 
 ---
