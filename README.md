@@ -5,7 +5,6 @@ I have 5+ years of experience crafting everything from IoT and healthcare soluti
 
 - ⚡ **Fun fact**: I’m on a lifelong quest to turn complicated problems into solutions that even my grandma could understand.
 - 💡 **Interests**: IoT, Web Development, Data Integration, and Optimizing Frontend Experiences.
-- 💬 **Let’s chat** about tech trends, coding challenges, or the finer points of JavaScript jokes.
 
 ---
 
