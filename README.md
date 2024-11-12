@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kenawy
 
-🛠️ **Code Wrangler & Bug Whisperer** 🛠️  
+🛠️ **Bug Whisperer** 🛠️  
 I have 5+ years of experience crafting everything from IoT and healthcare solutions to fleet management and e-commerce systems. I enjoy making tech that’s both powerful and user-friendly. My specialty? Keeping things simple and reliable while sneaking in a bit of fun along the way!
 
 - ⚡ **Fun fact**: I’m on a lifelong quest to turn complicated problems into solutions that even my grandma could understand.
