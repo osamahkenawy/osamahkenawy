@@ -21,11 +21,3 @@
 <p align="center">
 	<a target="_blank" href="https://linkedin.com/in/osamah-kenawy"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </p>
-
----
-
-<p align="center">
-   <i>"A problem can be solved in a hundred ways—I'm here to find the simplest, most effective one."</i>
-   <br>
-   <i>"You miss 100% of the shots you don't take."</i>
-</p>
